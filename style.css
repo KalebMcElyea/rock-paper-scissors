@@ -1,0 +1,21 @@
+#body{
+   background-color: blanchedalmond;
+}
+
+.outcome{
+   background-color: rgba(0, 0, 0, 0.166);
+   width:auto;
+}
+
+.rock-button{
+   background-color: aqua;
+   
+}
+
+.paper-button{
+   background-color: aqua;
+}
+
+.scissors-button{
+   background-color: aqua;
+}
